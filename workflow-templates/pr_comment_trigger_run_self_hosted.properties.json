@@ -1,4 +1,5 @@
 {
     "name": "self-hosted runner: pr comment triggered",
-    "description": "In a PR, authorized users (search for 'cwsmith'), can create an issue comment that contains the text /runtests, the github action will be triggered on the self-hosted runner, and the result with a link posted as a follow-up issue comment."
+    "description": "In a PR, authorized users (search for 'cwsmith'), can create an issue comment that contains the text /runtests, the github action will be triggered on the self-hosted runner, and the result with a link posted as a follow-up issue comment.",
+    "categories": ["Continuous integration"]
 }
